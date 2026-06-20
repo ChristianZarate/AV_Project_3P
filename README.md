@@ -1,8 +1,8 @@
-# 🦺 Detección de Cascos de Seguridad con YOLOv8
+# Detección de Cascos de Seguridad con YOLOv8
 
-Proyecto de Visión Artificial para la detección automática de cascos de seguridad en entornos de construcción e industriales, utilizando un modelo YOLOv8 entrenado con un dataset personalizado.
+Proyecto de Visión Artificial para la detección automática de cascos de seguridad en entornos industriales, utilizando un modelo YOLOv8 entrenado con un dataset personalizado.
 
-**Integrante:** Christian Zarate
+**Integrante:** Christian Gonzalez Zarate   23310384   6E
 
 ---
 
